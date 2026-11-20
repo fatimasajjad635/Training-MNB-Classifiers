@@ -1,0 +1,7 @@
+feature_type,use_unigrams,use_bigrams,stopwords_removed,accuracy
+unigrams_with_stopwords,True,False,no,0.8078375
+bigrams_with_stopwords,False,True,no,0.8246875
+unigrams_bigrams_with_stopwords,True,True,no,0.8317375
+unigrams_without_stopwords,True,False,yes,0.8061576539413485
+bigrams_without_stopwords,False,True,yes,0.7819820495512387
+unigrams_bigrams_without_stopwords,True,True,yes,0.8236205905147629
